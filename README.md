@@ -25,16 +25,47 @@ A Flutter Project on Whatsapp UI Clone,
      style="float: left; margin-right: 10px;"
      width="200"/>
 
-
-
-
 ## Tech Stack
 - Flutter
 - Dart
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## NOTE:
+37
+This project is subject to change by the developer and is still in development
+38
+​
+39
+## How to run this
+40
+Running this is as simple as it gets. Follow this steps
+41
+1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+42
+2. Navigate to the project folder where you have cloned this repo.
+43
+3. Open an emulator or plug in a real device
+44
+4. Type the following command in the terminal 
+45
+     ```
+46
+     flutter run
+47
+     ```
+48
+     
+49
+## Pull Request
+50
+​
+51
+Pull Requests are welcome. Please follow these rules for the ease of understanding:
+52
+* Make sure to check for available issues before raising one
+53
+* Give me a maximum of 24-48 hours to respond
+54
+* Have proper documentation on the parts you are changing/adding
 
 
