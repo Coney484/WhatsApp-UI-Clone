@@ -47,3 +47,26 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 * Have proper documentation on the parts you are changing/adding
 
 
+## License 
+[![GitHub license](https://img.shields.io/github/license/Coney484/WhatsApp-UI-Clone.svg?style=for-the-badge)](https://github.com/Coney484/WhatsApp-UI-Clone/blob/master/LICENSE)
+```Copyright 2020 Rohan Anand Choudhary
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+ 
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+## Getting Started
+For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
+``` 
+    
+    
+
+
